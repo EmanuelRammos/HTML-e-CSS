@@ -1,0 +1,15 @@
+.caixa{
+    background-color: rgb(107, 105, 105);
+    border: solid 5px rgb(58, 58, 52);
+   
+   /*padding: 0px 0px 80px 0px;*/
+   /* margin: 50px 80px 930px 1000px;*/
+}
+.contaner{
+    background-color: rgb(255, 5, 5);
+    text-align: center;
+    width: 50%;
+    padding: 100px;
+    margin: 0 auto;
+    /*para centralizar elementos, use width 50% e margin 0 auto*/
+}
